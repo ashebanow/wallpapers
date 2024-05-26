@@ -40,3 +40,4 @@
 /nixos-wp-4.png filter=lfs diff=lfs merge=lfs -text
 /nixos-wp-5.png filter=lfs diff=lfs merge=lfs -text
 /nixos-wp-6.png filter=lfs diff=lfs merge=lfs -text
+/blue-spaceball.png filter=lfs diff=lfs merge=lfs -text

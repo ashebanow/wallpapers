@@ -80,3 +80,4 @@
 /wall.jpg filter=lfs diff=lfs merge=lfs -text
 /wallhaven-vmk698.jpg filter=lfs diff=lfs merge=lfs -text
 /woods.jpg filter=lfs diff=lfs merge=lfs -text
+/dracula-fedora.png filter=lfs diff=lfs merge=lfs -text

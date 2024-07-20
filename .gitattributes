@@ -81,3 +81,14 @@
 /wallhaven-vmk698.jpg filter=lfs diff=lfs merge=lfs -text
 /woods.jpg filter=lfs diff=lfs merge=lfs -text
 /dracula-fedora.png filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-00.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-01.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-02.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-03.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-04.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-05.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-06.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-07.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-08.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-09.gif filter=lfs diff=lfs merge=lfs -text
+/cinemagraphs/garden-of-words-10.gif filter=lfs diff=lfs merge=lfs -text
